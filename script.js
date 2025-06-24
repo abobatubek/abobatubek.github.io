@@ -41,7 +41,7 @@ async function loadVideos() {
         videos = [
             {
                 url: "https://drive.google.com/file/d/1uc2EaWVP8Z2IEjgIiB4VR11u1mmavFyk/preview",
-                title: "Все треки ShadowRaze!",
+                title: "Все треки ShadowRaze (Нет доступа к videos.js)",
                 thumbnail: "https://via.placeholder.com/320x180/ff0000/ffffff?text=Video"
             }
         ];

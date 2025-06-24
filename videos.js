@@ -10,7 +10,19 @@ const videos = [
     {
         videourl: "https://drive.google.com/file/d/1CLdp7MNAcOlTEGBE8dl328t2E1C9RKIs/preview",
         videoname: "MEMPHIS PHONK MIX"
-    }
+    },
+    {
+        videourl: "https://drive.google.com/file/d/1uc2EaWVP8Z2IEjgIiB4VR11u1mmavFyk/preview",
+        videoname: "Все треки ebobo"
+    },
+    {
+        videourl: "https://drive.google.com/file/d/1uc2EaWVP8Z2IEjgIiB4VR11u1mmavFyk/preview",
+        videoname: "Все треки aliali"
+    },
+    {
+        videourl: "https://drive.google.com/file/d/1uc2EaWVP8Z2IEjgIiB4VR11u1mmavFyk/preview",
+        videoname: "Все треки elemelelele"
+    },
     // Добавьте новые видео здесь:
     // {
     //     videourl: "https://drive.google.com/file/d/ВАШ_ID_ФАЙЛА/view",
