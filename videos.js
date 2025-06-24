@@ -1,0 +1,19 @@
+// Файл конфигурации видео
+// Формат: videourl = "ссылка на Google Drive", videoname = "название видео"
+// Просто добавьте новые видео в массив ниже
+
+const videos = [
+    {
+        videourl: "https://drive.google.com/file/d/1uc2EaWVP8Z2IEjgIiB4VR11u1mmavFyk/preview",
+        videoname: "Все треки ShadowRaze!"
+    }
+    // Добавьте новые видео здесь:
+    // {
+    //     videourl: "https://drive.google.com/file/d/ВАШ_ID_ФАЙЛА/view",
+    //     videoname: "Название вашего видео"
+    // },
+    // {
+    //     videourl: "https://drive.google.com/file/d/ДРУГОЙ_ID_ФАЙЛА/view",
+    //     videoname: "Другое видео"
+    // }
+]; 
