@@ -43,11 +43,6 @@ async function loadVideos() {
                 url: "https://drive.google.com/file/d/1uc2EaWVP8Z2IEjgIiB4VR11u1mmavFyk/preview",
                 title: "Все треки ShadowRaze!",
                 thumbnail: "https://via.placeholder.com/320x180/ff0000/ffffff?text=Video"
-            },
-            {
-                url: "https://drive.google.com/file/d/1CLdp7MNAcOlTEGBE8dl328t2E1C9RKIs/preview", 
-                title: "MEMPHIS PHONK MIX",
-                thumbnail: "https://via.placeholder.com/320x180/ff0000/ffffff?text=Video"
             }
         ];
     }

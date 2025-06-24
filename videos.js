@@ -6,6 +6,10 @@ const videos = [
     {
         videourl: "https://drive.google.com/file/d/1uc2EaWVP8Z2IEjgIiB4VR11u1mmavFyk/preview",
         videoname: "Все треки ShadowRaze!"
+    },
+    {
+        videourl: "https://drive.google.com/file/d/1CLdp7MNAcOlTEGBE8dl328t2E1C9RKIs/preview",
+        videoname: "MEMPHIS PHONK MIX"
     }
     // Добавьте новые видео здесь:
     // {
