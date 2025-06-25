@@ -15,10 +15,6 @@ const videos = [
         videourl: "https://drive.google.com/file/d/1DRrzMJZ_vzsTlfxtghRV2Usr2KiBjHdS/preview",
         videoname: "1 HOUR AGGRESSIVE PHONK #4 _ Сборник агрессивного Фонка"
     },
-    {
-        videourl: "https://drive.google.com/file/d/1HaKX5BVFMKoSEOu1kceAvWSq8svAEVdR/preview",
-        videoname: "БЕРЕМЕННА В 45 _ 3 СЕЗОН, 10 ВЫПУСК _ СТЭЛЛА, МОСКОВСКАЯ ОБЛАСТЬ"
-    },
     // Добавьте новые видео здесь:
     // {
     //     videourl: "https://drive.google.com/file/d/ВАШ_ID_ФАЙЛА/view",
